@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\vova_say\desktop\chess\saper\game.cpp(722): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\vova_say\desktop\chess\saper\game.cpp(747): warning C4553: '==': result of expression not used; did you intend '='?
+  saper.vcxproj -> C:\Users\vova_say\Desktop\chess\Debug\saper.exe
